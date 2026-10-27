@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #141414; /* Color de fondo tipo Netflix */
+  color: white;
+}
